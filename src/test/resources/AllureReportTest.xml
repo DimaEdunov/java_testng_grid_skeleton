@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="This Is The Test Suite Name From TestNG XML">
+    <listeners>
+        <listener class-name="allurreport.AllureReportListener"/>
+    </listeners>
+    <test name="Allure Reports Is the Best!!!!">
+        <classes>
+            <class name="allurreport.TestAllureReport"/>
+        </classes>
+    </test>
+</suite>
