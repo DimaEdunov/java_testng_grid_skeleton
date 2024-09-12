@@ -1,0 +1,1 @@
+{"uuid":"0ec2fbf6-77df-48cb-b6eb-a2bd3b95c29c","name":"Master Suite","children":["39c2f88a-4007-4d8e-af4e-1681d0c6b760"],"befores":[],"afters":[{"name":"afterSuite","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1725960234057,"stop":1725960234057}],"start":1725960217660,"stop":1725960234058}
